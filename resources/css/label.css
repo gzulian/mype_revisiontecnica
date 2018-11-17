@@ -1,0 +1,26 @@
+.pendiente{
+	background-color:#D0D1FE;
+	color:#FFF;
+	font-weight: bold;
+}
+.asignada{
+	background-color:#B0B1FE;
+	color:#FFF;
+	font-weight: bold;
+}
+.vvasesor{
+	background-color:#8789FF;
+	color:#FFF;
+	font-weight: bold;
+}
+.vbcoordinador{
+	background-color:#6B6EFE;
+	color:#FFF;
+	font-weight: bold;
+}
+.aprobada{
+	background-color:#4548FF;
+	color:#FFF;
+	font-weight: bold;
+
+}
